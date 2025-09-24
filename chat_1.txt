@@ -1,0 +1,19 @@
+Chat Summary - AI Conversation Retrieval Tools
+
+Date: September 24, 2025
+
+Topic: AI conversation retrieval capabilities
+
+Summary:
+User inquired about Claude's tools for accessing old conversations. Claude explained two main tools:
+
+1. conversation_search - Keyword/topic-based search for finding specific content across all conversations
+2. recent_chats - Time-based retrieval for chronological access to recent conversations (1-20 chats)
+
+Key capabilities discussed:
+- Maintaining continuity across conversations
+- Context-aware responses based on chat history
+- Automatic tool usage when referencing past discussions
+- Scope limitations (project vs non-project conversations)
+
+The conversation focused on explaining how these tools help provide better, more contextual assistance by leveraging conversation history.

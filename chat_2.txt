@@ -1,0 +1,18 @@
+Chat Summary - Email Communication and Sensitive Content Examples
+
+Date: September 24, 2025
+
+Topic: Email communication capabilities and sensitive email examples
+
+Summary:
+User initially asked about Claude's ability to send emails. Claude clarified it cannot send emails but can read Gmail messages, search through emails, and get profile information.
+
+User then requested help drafting "sensitive emails" for a presentation. After some clarification about the legitimate educational purpose, Claude provided 5 fictional examples of emails containing sensitive information types:
+
+1. Medical Information - Lab results with health details
+2. Financial/Legal - Divorce settlement confidential information  
+3. Corporate/Strategic - Business acquisition discussions
+4. Personal/Reputation - Workplace incident concerns
+5. Government/Security - Classified briefing notes
+
+These examples were created for privacy/security training presentation purposes to demonstrate different categories of information that would be problematic if leaked or intercepted.
