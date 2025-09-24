@@ -1,0 +1,16 @@
+Email Summary - Mail 1
+
+From: Team Twilio <teamtwilio@team.twilio.com>
+Subject: Last Call: See what's new and improved from Twilio!
+Date: Wed, 24 Sep 2025 06:06:16 +0000 (UTC)
+
+Summary:
+Twilio is inviting Eran to their Q3 2025 Release Webinar happening tomorrow. The webinar will cover exciting updates including:
+- RCS for richer messaging
+- Branded calling features
+- Conversational AI improvements
+- New orchestration tools for real-time customer journey adaptation
+
+The email emphasizes this as the "full playbook for the season ahead" and encourages registration even for those who can't attend live, as a replay will be provided.
+
+From: Steph Dollan, Senior Product Marketing Manager at Twilio

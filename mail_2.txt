@@ -1,0 +1,16 @@
+Email Summary - Mail 2
+
+From: Netlify <noreply@netlify.com>
+Subject: AI that ships your fixes. Live demo at NTL DEPLOY
+Date: Tue, 23 Sep 2025 10:49:20 -0700
+
+Summary:
+Netlify is announcing their NTL DEPLOY online launch event on October 1st, focusing on AI tools that can turn prompts into production code. The email addresses a common developer pain point: while AI can write code for small bugs and low-priority fixes, deploying them is still a hassle.
+
+Key promises:
+- Fix "someday" tasks in minutes
+- Go from prompt to deploy without leaving your workflow
+- See real developers using Netlify AI in production
+- New ways to build with AI by combining favorite agents into shippable workflows
+
+The event will show live demos of these new deployment capabilities. Registration is available even for those who can't attend live, with replay access provided.

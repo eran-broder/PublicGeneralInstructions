@@ -1,0 +1,27 @@
+Email Summary - Mail 5
+
+From: J.P. Morgan via Broadridge <id@proxyvote.com>
+Subject: Vote now! TESLA, INC. Annual Meeting
+Date: Mon, 22 Sep 2025 17:00:21 -0400
+
+Summary:
+This is a proxy voting notification for Tesla's 2025 Annual Meeting sent through J.P. Morgan's partnership with Broadridge Financial Solutions.
+
+Investment Details:
+- Company: TESLA, INC.
+- CUSIP: 88160R101
+- Account ending in: 1639
+- Control number: 9385560488338487
+
+Voting Information:
+- Meeting: 2025 Annual Meeting
+- Vote deadline: November 5, 2025
+- Available materials: Annual Report and Shareholder Letter
+- Voting topics include: board elections, executive compensation, Environmental Social Governance (ESG), and human rights issues
+
+Ways to Vote:
+1. Online at ProxyVote.com
+2. Phone: 1-800-454-8683
+3. Attend the meeting in person
+
+The email stresses the importance of shareholder voting in corporate governance decisions that can impact share value and encourages active participation in the democratic process of corporate decision-making.

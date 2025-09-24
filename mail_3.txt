@@ -1,0 +1,20 @@
+Email Summary - Mail 3
+
+From: noreply@salesforce.com
+Subject: Your Salesforce Developer Edition org is about to expire
+Date: Tue, 23 Sep 2025 07:45:40 +0000 (GMT)
+
+Summary:
+This is an official notification from Salesforce regarding Eran's Developer Edition (DE) org expiration. The org details:
+- Org ID: 00DQy00000OIyXm
+- Username: eran@resourceful-badger-3n68x7.com
+- Status: Inactive for 180 days
+
+Action Required:
+- Must log in before 7.10.2025 to continue using the org
+- If no action is taken, the org will be locked on 7.10.2025
+- After 30 days of being locked, it will be permanently deleted
+- Locked orgs can be reactivated via Customer Support case
+- Deleted orgs cannot be recovered
+
+This is part of Salesforce's capacity planning best practices for managing inactive Developer Edition orgs.
