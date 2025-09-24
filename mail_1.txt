@@ -1,0 +1,7 @@
+Email Summary #1: Security Alert from Google
+
+Subject: Security alert
+From: Google <no-reply@accounts.google.com>
+Date: Wed, 24 Sep 2025 21:05:28 GMT
+
+Summary: Google sent a security notification informing the user that Claude for Gmail was granted access to their Google Account data for digitalenzymestest@gmail.com. The email provides links to check account activity and manage app permissions. This is a standard security alert that Google sends when third-party applications are granted access to user data.

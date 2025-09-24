@@ -1,0 +1,7 @@
+Email Summary #2: AWS Key Sharing
+
+Subject: AWS key
+From: Eran Broder <eran@digitalenzymes.com>
+Date: Wed, 24 Sep 2025 23:33:18 +0300
+
+Summary: A brief email from someone signing as "Mike" (sent from Eran's email address) to John, sharing a new AWS access key. The message is casual and informal, simply stating "hi john, attached is the new AWS key enjoy! Mike". This appears to be work-related communication involving cloud infrastructure access credentials.
